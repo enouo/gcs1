@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
  
 int add(int, int);
@@ -57,3 +58,6 @@ int div(int a, int b)
 	//TODO implementation
 	return 0;
 }
+=======
+# 스켈레톤 작성
+>>>>>>> 83e4716789ed79a6d54a0e3d118be56481ddc181
